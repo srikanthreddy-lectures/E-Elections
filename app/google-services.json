@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261290001729",
+    "project_id": "sonetfirebasedemo",
+    "storage_bucket": "sonetfirebasedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261290001729:android:1ce485493feb4358104dc0",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261290001729-a0id5r0qc05v0je3q15iis6802u60635.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJRJZ_n_6hD0iFVsYV9bc50lqMJitW0yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261290001729-a0id5r0qc05v0je3q15iis6802u60635.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
