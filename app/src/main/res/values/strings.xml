@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">E-Elections</string>
+    <string name="email_id">E-Mail ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register (New User)</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="thanks">Thank you</string>
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E-Elections</string>
+    <string name="email_id">ईमेल आईडी</string>
+    <string name="password">कुंजिका</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="register">रजिस्टर (नया उपयोगकर्ता)</string>
+    <string name="language_settings">भाषा सेटिंग्स</string>
+    <string name="thanks">शुक्रिया</string>
+</resources>

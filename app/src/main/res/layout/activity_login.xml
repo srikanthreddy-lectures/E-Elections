@@ -7,14 +7,18 @@
     tools:context=".LoginActivity">
 
     <EditText
+        android:id="@+id/login_email_ed"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="32dp"
         android:ems="10"
-        android:id="@+id/login_email_ed"
-        app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" android:layout_marginTop="32dp"
-        android:layout_marginStart="32dp" android:layout_marginEnd="32dp" android:hint="Email Id"/>
+        android:hint="@string/email_id"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
     <EditText
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -24,9 +28,9 @@
         app:layout_constraintTop_toBottomOf="@+id/login_email_ed"
         app:layout_constraintStart_toStartOf="@+id/login_email_ed"
         app:layout_constraintEnd_toEndOf="@+id/login_email_ed" android:layout_marginTop="24dp"
-        android:hint="Password"/>
+        android:hint="@string/password"/>
     <Button
-        android:text="Login"
+        android:text="@string/login"
         android:layout_width="0dp"
         android:layout_height="wrap_content" android:id="@+id/login_btn"
         app:layout_constraintTop_toBottomOf="@+id/login_password_ed"
@@ -35,7 +39,7 @@
         android:backgroundTint="@color/black"
         app:layout_constraintEnd_toEndOf="@+id/login_password_ed"/>
     <Button
-        android:text="New user Register"
+        android:text="@string/register"
         android:layout_width="0dp"
         android:layout_height="wrap_content" android:id="@+id/login_register_btn"
         app:layout_constraintStart_toStartOf="@+id/login_password_ed"

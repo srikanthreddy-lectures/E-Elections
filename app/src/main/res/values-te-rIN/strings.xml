@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E-Elections</string>
+    <string name="email_id">ఇ-మెయిల్ ఐడి</string>
+    <string name="password">పాస్వర్డ్</string>
+    <string name="login">ప్రవేశించండి</string>
+    <string name="register">నమోదు (క్రొత్త వినియోగదారు)</string>
+    <string name="language_settings">భాష సెట్టింగులు</string>
+    <string name="thanks">ధన్యవాదాలు</string>
+</resources>
